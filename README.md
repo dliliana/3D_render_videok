@@ -1,2 +1,3 @@
-# MAMU_Kiallitas_Video
- Videó bemutató a Unityben készült 3D kiállításomról, ami a MAMÜ galériájának virtuális terében van.
+# 3D render videók
+
+Kirenderelt videók egy sivagatban játszódó 3D játék tervéről.
